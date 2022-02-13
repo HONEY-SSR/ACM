@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		145CB35B27B5FD9E00F7E6AA /* 225. 用队列实现栈.c in Sources */ = {isa = PBXBuildFile; fileRef = 145CB35A27B5FD9E00F7E6AA /* 225. 用队列实现栈.c */; };
+		1452324927B7845700F60885 /* 704. 二分查找.c in Sources */ = {isa = PBXBuildFile; fileRef = 1452324827B7845700F60885 /* 704. 二分查找.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1452324827B7845700F60885 /* 704. 二分查找.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "704. 二分查找.c"; sourceTree = "<group>"; };
 		145B345B27B1448300C1F9C3 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "20. 有效的括号.c"; sourceTree = "<group>"; };
 		145B346827B2137F00C1F9C3 /* 682. 棒球比赛.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "682. 棒球比赛.c"; sourceTree = "<group>"; };
@@ -50,6 +51,7 @@
 				149E269527B355C900DE1D67 /* 队列学习.c */,
 				14854AC627B4A3AC0089BFFF /* 剑指 Offer 09. 用两个栈实现队列.c */,
 				145CB35A27B5FD9E00F7E6AA /* 225. 用队列实现栈.c */,
+				1452324827B7845700F60885 /* 704. 二分查找.c */,
 				145B345C27B1448300C1F9C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -119,7 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				145CB35B27B5FD9E00F7E6AA /* 225. 用队列实现栈.c in Sources */,
+				1452324927B7845700F60885 /* 704. 二分查找.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
