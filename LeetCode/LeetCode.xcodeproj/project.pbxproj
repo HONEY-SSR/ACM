@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14D1F67327BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c in Sources */ = {isa = PBXBuildFile; fileRef = 14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */; };
+		14D1F68427BC7B4B0076B659 /* 69. x 的平方根.c in Sources */ = {isa = PBXBuildFile; fileRef = 14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,7 @@
 		14854AC627B4A3AC0089BFFF /* 剑指 Offer 09. 用两个栈实现队列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "剑指 Offer 09. 用两个栈实现队列.c"; sourceTree = "<group>"; };
 		149E269527B355C900DE1D67 /* 队列学习.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "队列学习.c"; sourceTree = "<group>"; };
 		14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "34. 在排序数组中查找元素的第一个和最后一个位置.c"; sourceTree = "<group>"; };
+		14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		145B345227B1448300C1F9C3 = {
 			isa = PBXGroup;
 			children = (
+				14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */,
 				145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */,
 				145B346827B2137F00C1F9C3 /* 682. 棒球比赛.c */,
 				149E269527B355C900DE1D67 /* 队列学习.c */,
@@ -123,7 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14D1F67327BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c in Sources */,
+				14D1F68427BC7B4B0076B659 /* 69. x 的平方根.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
