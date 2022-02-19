@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14D1F68427BC7B4B0076B659 /* 69. x 的平方根.c in Sources */ = {isa = PBXBuildFile; fileRef = 14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */; };
+		14D1F6BC27C076AB0076B659 /* 26. 删除有序数组中的重复项.c in Sources */ = {isa = PBXBuildFile; fileRef = 14D1F6BB27C076AB0076B659 /* 26. 删除有序数组中的重复项.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,8 @@
 		149E269527B355C900DE1D67 /* 队列学习.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "队列学习.c"; sourceTree = "<group>"; };
 		14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "34. 在排序数组中查找元素的第一个和最后一个位置.c"; sourceTree = "<group>"; };
 		14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
+		14D1F6B927BFDA180076B659 /* 27. 移除元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "27. 移除元素.c"; sourceTree = "<group>"; };
+		14D1F6BB27C076AB0076B659 /* 26. 删除有序数组中的重复项.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "26. 删除有序数组中的重复项.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,14 +50,16 @@
 		145B345227B1448300C1F9C3 = {
 			isa = PBXGroup;
 			children = (
-				14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */,
 				145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */,
 				145B346827B2137F00C1F9C3 /* 682. 棒球比赛.c */,
-				149E269527B355C900DE1D67 /* 队列学习.c */,
 				14854AC627B4A3AC0089BFFF /* 剑指 Offer 09. 用两个栈实现队列.c */,
+				149E269527B355C900DE1D67 /* 队列学习.c */,
 				145CB35A27B5FD9E00F7E6AA /* 225. 用队列实现栈.c */,
 				1452324827B7845700F60885 /* 704. 二分查找.c */,
 				14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */,
+				14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */,
+				14D1F6B927BFDA180076B659 /* 27. 移除元素.c */,
+				14D1F6BB27C076AB0076B659 /* 26. 删除有序数组中的重复项.c */,
 				145B345C27B1448300C1F9C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -125,7 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14D1F68427BC7B4B0076B659 /* 69. x 的平方根.c in Sources */,
+				14D1F6BC27C076AB0076B659 /* 26. 删除有序数组中的重复项.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
