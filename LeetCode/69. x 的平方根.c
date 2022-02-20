@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/16.
 //
 
+// https://leetcode-cn.com/problems/sqrtx/
+
 #include <stdio.h>
 
 int mySqrt(int x);

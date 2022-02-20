@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/12.
 //
 
+// https://leetcode-cn.com/problems/binary-search/
+
 #include <stdio.h>
 
 int search(int* nums, int numsSize, int target);

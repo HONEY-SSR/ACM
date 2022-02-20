@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/18.
 //
 
+// https://leetcode-cn.com/problems/remove-element/
+
 #include <stdio.h>
 
 int removeElement(int* nums, int numsSize, int val);

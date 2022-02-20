@@ -5,12 +5,14 @@
 //  Created by SSR on 2022/2/19.
 //
 
+// https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+
 #include <stdio.h>
 
 int removeDuplicates(int* nums, int numsSize);
 
 int main() {
-    int a[0] = {1}, i;
+    int a[] = {1}, i;
     int num = removeDuplicates(a, sizeof(a) / sizeof(int));
     for (i = 0; i < num; i++) {
         printf("%d\n", a[i]);

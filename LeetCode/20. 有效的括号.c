@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/7.
 //
 
+// https://leetcode-cn.com/problems/valid-parentheses/
+
 #include <stdio.h>
 #include <stdbool.h>
 

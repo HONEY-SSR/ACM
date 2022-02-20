@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/15.
 //
 
+// https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
 #include <stdio.h>
 #include <stdlib.h>
 

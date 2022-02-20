@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/8.
 //
 
+// https://leetcode-cn.com/problems/baseball-game/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

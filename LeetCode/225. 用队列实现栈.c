@@ -5,6 +5,8 @@
 //  Created by SSR on 2022/2/11.
 //
 
+// https://leetcode-cn.com/problems/implement-stack-using-queues/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
