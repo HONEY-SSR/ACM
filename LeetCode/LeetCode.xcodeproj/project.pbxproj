@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1467919E27C32CDF0026ACE5 /* 283. 移动零.c in Sources */ = {isa = PBXBuildFile; fileRef = 1467919D27C32CDF0026ACE5 /* 283. 移动零.c */; };
+		14496CD127C5C00700060A83 /* 209. 长度最小的子数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "209. 长度最小的子数组.c"; sourceTree = "<group>"; };
 		1452324827B7845700F60885 /* 704. 二分查找.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "704. 二分查找.c"; sourceTree = "<group>"; };
 		145B345B27B1448300C1F9C3 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "20. 有效的括号.c"; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 				14D1F6B927BFDA180076B659 /* 27. 移除元素.c */,
 				14D1F6BB27C076AB0076B659 /* 26. 删除有序数组中的重复项.c */,
 				1467919D27C32CDF0026ACE5 /* 283. 移动零.c */,
+				14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */,
 				145B345C27B1448300C1F9C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -131,7 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1467919E27C32CDF0026ACE5 /* 283. 移动零.c in Sources */,
+				14496CD127C5C00700060A83 /* 209. 长度最小的子数组.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
