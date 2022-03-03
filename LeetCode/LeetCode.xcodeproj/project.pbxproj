@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14496CD127C5C00700060A83 /* 209. 长度最小的子数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */; };
+		14B140F127CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c in Sources */ = {isa = PBXBuildFile; fileRef = 14B140F027CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,7 @@
 		1467919D27C32CDF0026ACE5 /* 283. 移动零.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "283. 移动零.c"; sourceTree = "<group>"; };
 		14854AC627B4A3AC0089BFFF /* 剑指 Offer 09. 用两个栈实现队列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "剑指 Offer 09. 用两个栈实现队列.c"; sourceTree = "<group>"; };
 		149E269527B355C900DE1D67 /* 队列学习.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "队列学习.c"; sourceTree = "<group>"; };
+		14B140F027CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "95. 不同的二叉搜索树 II.c"; sourceTree = "<group>"; };
 		14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "34. 在排序数组中查找元素的第一个和最后一个位置.c"; sourceTree = "<group>"; };
 		14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
 		14D1F6B927BFDA180076B659 /* 27. 移除元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "27. 移除元素.c"; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				14D1F6BB27C076AB0076B659 /* 26. 删除有序数组中的重复项.c */,
 				1467919D27C32CDF0026ACE5 /* 283. 移动零.c */,
 				14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */,
+				14B140F027CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c */,
 				145B345C27B1448300C1F9C3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -133,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14496CD127C5C00700060A83 /* 209. 长度最小的子数组.c in Sources */,
+				14B140F127CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
