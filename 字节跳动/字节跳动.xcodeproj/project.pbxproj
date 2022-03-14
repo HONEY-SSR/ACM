@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1448749827DEC60D00AE9974 /* 152. 乘积最大子数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 1448749727DEC60D00AE9974 /* 152. 乘积最大子数组.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1464A3FA27D6D06500BFE294 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1407C71827D8DF2A0026B88A /* 124. 二叉树中的最大路径和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "124. 二叉树中的最大路径和.c"; sourceTree = "<group>"; };
+		1407C71C27D992230026B88A /* 206. 反转链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "206. 反转链表.c"; sourceTree = "<group>"; };
+		1407C71E27D995220026B88A /* 199. 二叉树的右视图.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "199. 二叉树的右视图.c"; sourceTree = "<group>"; };
+		1407C72227D9BCDD0026B88A /* bytedance-016. 16. 最短移动距离.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-016. 16. 最短移动距离.cpp"; sourceTree = "<group>"; };
+		1407C72827DA1CB50026B88A /* 16test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16test.cpp; sourceTree = "<group>"; };
+		1448749527DEC38D00AE9974 /* 53. 最大子数组和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "53. 最大子数组和.c"; sourceTree = "<group>"; };
+		1448749727DEC60D00AE9974 /* 152. 乘积最大子数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "152. 乘积最大子数组.c"; sourceTree = "<group>"; };
+		1448749927DED72A00AE9974 /* 41. 缺失的第一个正数.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "41. 缺失的第一个正数.c"; sourceTree = "<group>"; };
+		1464A3FC27D6D06500BFE294 /* 字节跳动 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "字节跳动"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1464A3FF27D6D06500BFE294 /* 21. 合并两个有序链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "21. 合并两个有序链表.c"; sourceTree = "<group>"; };
+		1464A40627D6DB2B00BFE294 /* 146. LRU 缓存.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "146. LRU 缓存.cpp"; sourceTree = "<group>"; };
+		1464A40827D6E73200BFE294 /* 25. K 个一组翻转链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "25. K 个一组翻转链表.c"; sourceTree = "<group>"; };
+		1464A48627D84E0D00BFE294 /* 14. 最长公共前缀.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "14. 最长公共前缀.c"; sourceTree = "<group>"; };
+		1464A48927D856E800BFE294 /* 3. 无重复字符的最长子串.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "3. 无重复字符的最长子串.c"; sourceTree = "<group>"; };
+		146805AF27DB1C1400D1B046 /* 1. 两数之和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "1. 两数之和.c"; sourceTree = "<group>"; };
+		146805B227DB699400D1B046 /* 15. 三数之和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "15. 三数之和.c"; sourceTree = "<group>"; };
+		146805B427DB6B0500D1B046 /* 42. 接雨水.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "42. 接雨水.c"; sourceTree = "<group>"; };
+		146805B727DC2F9000D1B046 /* 7. 整数反转.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "7. 整数反转.c"; sourceTree = "<group>"; };
+		146805B927DC336500D1B046 /* 215. 数组中的第K个最大元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "215. 数组中的第K个最大元素.c"; sourceTree = "<group>"; };
+		146805BB27DC382900D1B046 /* 23. 合并K个升序链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "23. 合并K个升序链表.c"; sourceTree = "<group>"; };
+		14B877BC27DD78730075CA17 /* 33. 搜索旋转排序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "33. 搜索旋转排序数组.c"; sourceTree = "<group>"; };
+		14B877BE27DD7B2B0075CA17 /* 54. 螺旋矩阵.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "54. 螺旋矩阵.c"; sourceTree = "<group>"; };
+		14B877C027DD903A0075CA17 /* bytedance-006. 夏季特惠.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-006. 夏季特惠.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1464A3F927D6D06500BFE294 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1407C71B27D991EE0026B88A /* 3.10 */ = {
+			isa = PBXGroup;
+			children = (
+				1407C71C27D992230026B88A /* 206. 反转链表.c */,
+				1407C71E27D995220026B88A /* 199. 二叉树的右视图.c */,
+				1407C72227D9BCDD0026B88A /* bytedance-016. 16. 最短移动距离.cpp */,
+				1407C72827DA1CB50026B88A /* 16test.cpp */,
+			);
+			name = 3.10;
+			sourceTree = "<group>";
+		};
+		1448749427DEC31400AE9974 /* 3.14 */ = {
+			isa = PBXGroup;
+			children = (
+				1448749527DEC38D00AE9974 /* 53. 最大子数组和.c */,
+				1448749727DEC60D00AE9974 /* 152. 乘积最大子数组.c */,
+				1448749927DED72A00AE9974 /* 41. 缺失的第一个正数.c */,
+			);
+			path = 3.14;
+			sourceTree = "<group>";
+		};
+		1464A3F327D6D06500BFE294 = {
+			isa = PBXGroup;
+			children = (
+				1464A3FE27D6D06500BFE294 /* 3.8 */,
+				1464A48827D84E2600BFE294 /* 3.9 */,
+				1407C71B27D991EE0026B88A /* 3.10 */,
+				146805B027DB1C3B00D1B046 /* 3.11 */,
+				146805B627DC2F6400D1B046 /* 3.12 */,
+				14B877BB27DD782B0075CA17 /* 3.13 */,
+				1448749427DEC31400AE9974 /* 3.14 */,
+				1464A3FD27D6D06500BFE294 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1464A3FD27D6D06500BFE294 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1464A3FC27D6D06500BFE294 /* 字节跳动 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1464A3FE27D6D06500BFE294 /* 3.8 */ = {
+			isa = PBXGroup;
+			children = (
+				1464A3FF27D6D06500BFE294 /* 21. 合并两个有序链表.c */,
+				1464A40627D6DB2B00BFE294 /* 146. LRU 缓存.cpp */,
+				1464A40827D6E73200BFE294 /* 25. K 个一组翻转链表.c */,
+			);
+			path = 3.8;
+			sourceTree = "<group>";
+		};
+		1464A48827D84E2600BFE294 /* 3.9 */ = {
+			isa = PBXGroup;
+			children = (
+				1464A48627D84E0D00BFE294 /* 14. 最长公共前缀.c */,
+				1464A48927D856E800BFE294 /* 3. 无重复字符的最长子串.c */,
+				1407C71827D8DF2A0026B88A /* 124. 二叉树中的最大路径和.c */,
+			);
+			path = 3.9;
+			sourceTree = "<group>";
+		};
+		146805B027DB1C3B00D1B046 /* 3.11 */ = {
+			isa = PBXGroup;
+			children = (
+				146805AF27DB1C1400D1B046 /* 1. 两数之和.c */,
+				146805B227DB699400D1B046 /* 15. 三数之和.c */,
+				146805B427DB6B0500D1B046 /* 42. 接雨水.c */,
+			);
+			name = 3.11;
+			sourceTree = "<group>";
+		};
+		146805B627DC2F6400D1B046 /* 3.12 */ = {
+			isa = PBXGroup;
+			children = (
+				146805B727DC2F9000D1B046 /* 7. 整数反转.c */,
+				146805B927DC336500D1B046 /* 215. 数组中的第K个最大元素.c */,
+				146805BB27DC382900D1B046 /* 23. 合并K个升序链表.c */,
+			);
+			path = 3.12;
+			sourceTree = "<group>";
+		};
+		14B877BB27DD782B0075CA17 /* 3.13 */ = {
+			isa = PBXGroup;
+			children = (
+				14B877BC27DD78730075CA17 /* 33. 搜索旋转排序数组.c */,
+				14B877BE27DD7B2B0075CA17 /* 54. 螺旋矩阵.c */,
+				14B877C027DD903A0075CA17 /* bytedance-006. 夏季特惠.cpp */,
+			);
+			path = 3.13;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1464A3FB27D6D06500BFE294 /* 字节跳动 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1464A40327D6D06500BFE294 /* Build configuration list for PBXNativeTarget "字节跳动" */;
+			buildPhases = (
+				1464A3F827D6D06500BFE294 /* Sources */,
+				1464A3F927D6D06500BFE294 /* Frameworks */,
+				1464A3FA27D6D06500BFE294 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "字节跳动";
+			productName = "字节跳动";
+			productReference = 1464A3FC27D6D06500BFE294 /* 字节跳动 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1464A3F427D6D06500BFE294 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					1464A3FB27D6D06500BFE294 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 1464A3F727D6D06500BFE294 /* Build configuration list for PBXProject "字节跳动" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1464A3F327D6D06500BFE294;
+			productRefGroup = 1464A3FD27D6D06500BFE294 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1464A3FB27D6D06500BFE294 /* 字节跳动 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1464A3F827D6D06500BFE294 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1448749827DEC60D00AE9974 /* 152. 乘积最大子数组.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1464A40127D6D06500BFE294 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		1464A40227D6D06500BFE294 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		1464A40427D6D06500BFE294 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 727CVV9PLJ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		1464A40527D6D06500BFE294 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 727CVV9PLJ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1464A3F727D6D06500BFE294 /* Build configuration list for PBXProject "字节跳动" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1464A40127D6D06500BFE294 /* Debug */,
+				1464A40227D6D06500BFE294 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1464A40327D6D06500BFE294 /* Build configuration list for PBXNativeTarget "字节跳动" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1464A40427D6D06500BFE294 /* Debug */,
+				1464A40527D6D06500BFE294 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1464A3F427D6D06500BFE294 /* Project object */;
+}
