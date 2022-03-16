@@ -26,9 +26,9 @@ int main() {
 }
 
 bool isValid(char *s) {
-    char c[5001] = "\0", *t = c;
+    char c[10001] = "\0", *t = c;
     int i;
-    for (i = 0; *s && i < 5001; s++, i++) {
+    for (i = 0; *s && i < 10001; s++, i++) {
         switch (*s) {
             case '[':
             case '{':

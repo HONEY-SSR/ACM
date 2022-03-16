@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1448749827DEC60D00AE9974 /* 152. 乘积最大子数组.c in Sources */ = {isa = PBXBuildFile; fileRef = 1448749727DEC60D00AE9974 /* 152. 乘积最大子数组.c */; };
+		1441701027E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1441700F27E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +28,13 @@
 		1407C71E27D995220026B88A /* 199. 二叉树的右视图.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "199. 二叉树的右视图.c"; sourceTree = "<group>"; };
 		1407C72227D9BCDD0026B88A /* bytedance-016. 16. 最短移动距离.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-016. 16. 最短移动距离.cpp"; sourceTree = "<group>"; };
 		1407C72827DA1CB50026B88A /* 16test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16test.cpp; sourceTree = "<group>"; };
+		1441700227E006BA003A5A2E /* 20. 有效的括号.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "20. 有效的括号.c"; sourceTree = "<group>"; };
+		1441700427E00C76003A5A2E /* 200. 岛屿数量.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "200. 岛屿数量.c"; sourceTree = "<group>"; };
+		1441700627E013E3003A5A2E /* 76. 最小覆盖子串.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "76. 最小覆盖子串.c"; sourceTree = "<group>"; };
+		1441700927E1662B003A5A2E /* 105. 从前序与中序遍历序列构造二叉树.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "105. 从前序与中序遍历序列构造二叉树.c"; sourceTree = "<group>"; };
+		1441700B27E1681E003A5A2E /* 103. 二叉树的锯齿形层序遍历.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "103. 二叉树的锯齿形层序遍历.c"; sourceTree = "<group>"; };
+		1441700D27E16980003A5A2E /* bytedance-010. 数组组成最大数.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-010. 数组组成最大数.c"; sourceTree = "<group>"; };
+		1441700F27E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-010. 数组组成最大数ACM.cpp"; sourceTree = "<group>"; };
 		1448749527DEC38D00AE9974 /* 53. 最大子数组和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "53. 最大子数组和.c"; sourceTree = "<group>"; };
 		1448749727DEC60D00AE9974 /* 152. 乘积最大子数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "152. 乘积最大子数组.c"; sourceTree = "<group>"; };
 		1448749927DED72A00AE9974 /* 41. 缺失的第一个正数.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "41. 缺失的第一个正数.c"; sourceTree = "<group>"; };
@@ -70,6 +77,27 @@
 			name = 3.10;
 			sourceTree = "<group>";
 		};
+		1441700127E00693003A5A2E /* 3.15 */ = {
+			isa = PBXGroup;
+			children = (
+				1441700227E006BA003A5A2E /* 20. 有效的括号.c */,
+				1441700427E00C76003A5A2E /* 200. 岛屿数量.c */,
+				1441700627E013E3003A5A2E /* 76. 最小覆盖子串.c */,
+			);
+			path = 3.15;
+			sourceTree = "<group>";
+		};
+		1441700827E1660F003A5A2E /* 3.16 */ = {
+			isa = PBXGroup;
+			children = (
+				1441700927E1662B003A5A2E /* 105. 从前序与中序遍历序列构造二叉树.c */,
+				1441700B27E1681E003A5A2E /* 103. 二叉树的锯齿形层序遍历.c */,
+				1441700D27E16980003A5A2E /* bytedance-010. 数组组成最大数.c */,
+				1441700F27E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp */,
+			);
+			path = 3.16;
+			sourceTree = "<group>";
+		};
 		1448749427DEC31400AE9974 /* 3.14 */ = {
 			isa = PBXGroup;
 			children = (
@@ -90,6 +118,8 @@
 				146805B627DC2F6400D1B046 /* 3.12 */,
 				14B877BB27DD782B0075CA17 /* 3.13 */,
 				1448749427DEC31400AE9974 /* 3.14 */,
+				1441700127E00693003A5A2E /* 3.15 */,
+				1441700827E1660F003A5A2E /* 3.16 */,
 				1464A3FD27D6D06500BFE294 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -209,7 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1448749827DEC60D00AE9974 /* 152. 乘积最大子数组.c in Sources */,
+				1441701027E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +297,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -320,7 +350,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -333,6 +363,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 727CVV9PLJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -343,6 +374,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 727CVV9PLJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

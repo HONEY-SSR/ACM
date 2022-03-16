@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1407C72727D9C6BB0026B88A /* TestRand.m in Sources */ = {isa = PBXBuildFile; fileRef = 1407C72627D9C6BB0026B88A /* TestRand.m */; };
+		14BB89E127E1F2E1006245F1 /* test1.c in Sources */ = {isa = PBXBuildFile; fileRef = 14BB89E027E1F2D7006245F1 /* test1.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1407C72627D9C6BB0026B88A /* TestRand.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestRand.m; sourceTree = "<group>"; };
+		1448749D27DF69FA00AE9974 /* testColor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testColor.cpp; sourceTree = "<group>"; };
 		14496CD027C5C00700060A83 /* 209. 长度最小的子数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "209. 长度最小的子数组.c"; sourceTree = "<group>"; };
 		1452324827B7845700F60885 /* 704. 二分查找.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "704. 二分查找.c"; sourceTree = "<group>"; };
 		145B345B27B1448300C1F9C3 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -34,6 +35,7 @@
 		14854AC627B4A3AC0089BFFF /* 剑指 Offer 09. 用两个栈实现队列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "剑指 Offer 09. 用两个栈实现队列.c"; sourceTree = "<group>"; };
 		149E269527B355C900DE1D67 /* 队列学习.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "队列学习.c"; sourceTree = "<group>"; };
 		14B140F027CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "95. 不同的二叉搜索树 II.c"; sourceTree = "<group>"; };
+		14BB89E027E1F2D7006245F1 /* test1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test1.c; sourceTree = "<group>"; };
 		14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "34. 在排序数组中查找元素的第一个和最后一个位置.c"; sourceTree = "<group>"; };
 		14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
 		14D1F6B927BFDA180076B659 /* 27. 移除元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "27. 移除元素.c"; sourceTree = "<group>"; };
@@ -55,6 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				1407C72627D9C6BB0026B88A /* TestRand.m */,
+				14BB89E027E1F2D7006245F1 /* test1.c */,
+				1448749D27DF69FA00AE9974 /* testColor.cpp */,
 				145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */,
 				145B346827B2137F00C1F9C3 /* 682. 棒球比赛.c */,
 				149E269527B355C900DE1D67 /* 队列学习.c */,
@@ -137,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1407C72727D9C6BB0026B88A /* TestRand.m in Sources */,
+				14BB89E127E1F2E1006245F1 /* test1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
