@@ -7,25 +7,37 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-/*链表结点结构体*/
+
 struct NODE {
-    int val;        //可根据需求修改数据域。
+    int val;
     struct NODE *next;
 };
- /*函数声明*/
+
 struct NODE *createNode(void);
 struct NODE *sortNodeWithAscending(struct NODE *head);
+struct NODE* mergeTwoLists(struct NODE* list1, struct NODE* list2);
 void logNode(struct NODE *node);
 
 int main() {
-    struct NODE *head;//head 用来接收链表首地址。
-    head = createNode();//建立链表，并接收链表首地址
-    sortNodeWithAscending(head);//将首地址传递给链表输出函数，输出链表
-    logNode(head);
+    struct NODE *first = NULL, *secend = NULL;
+    
+    first = createNode();
+    secend = createNode();
+    
+    sortNodeWithAscending(first);
+    sortNodeWithAscending(secend);
+    printf("first NODE :\n");
+    logNode(first);
+    printf("secend NODE :\n");
+    logNode(secend);
+    
+    struct NODE *newNode = mergeTwoLists(first, secend);
+    printf("merge NODE :\n");
+    logNode(newNode);
+    
     return 0;
 }
- 
- /*creat函数  建立链表*/
+
 struct NODE *createNode() {
     struct NODE *currentNode = NULL, *nextNode = NULL, *head = NULL;
     int t;
@@ -48,7 +60,6 @@ struct NODE *createNode() {
     return head;//将链表的首地址传回。
 }
 
-/*output函数  输出链表*/
 struct NODE *sortNodeWithAscending(struct NODE *head) {
     struct NODE *p1, *p2;
     
@@ -62,6 +73,24 @@ struct NODE *sortNodeWithAscending(struct NODE *head) {
         }
     }
     return head;
+}
+
+struct NODE* mergeTwoLists(struct NODE* list1, struct NODE* list2){
+    struct NODE head;
+    head.next = list1;
+    struct NODE* cur = &head;
+    while (list1 != NULL && list2 != NULL) {
+        if (list1->val > list2->val) {
+            cur->next = list2;
+            list2 = list2->next;
+        } else {
+            cur->next = list1;
+            list1 = list1->next;
+        }
+        cur = cur->next;
+    }
+    cur->next = list1 == NULL ? list2 : list1;
+    return head.next;
 }
 
 void logNode(struct NODE *node) {

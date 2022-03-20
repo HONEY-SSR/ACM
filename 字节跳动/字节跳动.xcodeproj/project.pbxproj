@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1441701027E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1441700F27E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp */; };
+		1411B69727E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c in Sources */ = {isa = PBXBuildFile; fileRef = 1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +28,9 @@
 		1407C71E27D995220026B88A /* 199. 二叉树的右视图.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "199. 二叉树的右视图.c"; sourceTree = "<group>"; };
 		1407C72227D9BCDD0026B88A /* bytedance-016. 16. 最短移动距离.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-016. 16. 最短移动距离.cpp"; sourceTree = "<group>"; };
 		1407C72827DA1CB50026B88A /* 16test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16test.cpp; sourceTree = "<group>"; };
+		1411B69227E6B78100DA0DBF /* 88. 合并两个有序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "88. 合并两个有序数组.c"; sourceTree = "<group>"; };
+		1411B69427E6BB5000DA0DBF /* 31. 下一个排列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "31. 下一个排列.c"; sourceTree = "<group>"; };
+		1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "4. 寻找两个正序数组的中位数.c"; sourceTree = "<group>"; };
 		1441700227E006BA003A5A2E /* 20. 有效的括号.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "20. 有效的括号.c"; sourceTree = "<group>"; };
 		1441700427E00C76003A5A2E /* 200. 岛屿数量.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "200. 岛屿数量.c"; sourceTree = "<group>"; };
 		1441700627E013E3003A5A2E /* 76. 最小覆盖子串.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "76. 最小覆盖子串.c"; sourceTree = "<group>"; };
@@ -53,6 +56,15 @@
 		14B877BC27DD78730075CA17 /* 33. 搜索旋转排序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "33. 搜索旋转排序数组.c"; sourceTree = "<group>"; };
 		14B877BE27DD7B2B0075CA17 /* 54. 螺旋矩阵.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "54. 螺旋矩阵.c"; sourceTree = "<group>"; };
 		14B877C027DD903A0075CA17 /* bytedance-006. 夏季特惠.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-006. 夏季特惠.cpp"; sourceTree = "<group>"; };
+		14BB89E327E2B5FF006245F1 /* 94. 二叉树的中序遍历.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "94. 二叉树的中序遍历.c"; sourceTree = "<group>"; };
+		14BB89E527E2BA67006245F1 /* 102. 二叉树的层序遍历.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "102. 二叉树的层序遍历.c"; sourceTree = "<group>"; };
+		14BB89E727E2BEC3006245F1 /* 394. 字符串解码.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "394. 字符串解码.c"; sourceTree = "<group>"; };
+		14BB89EA27E4052F006245F1 /* 415. 字符串相加.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "415. 字符串相加.c"; sourceTree = "<group>"; };
+		14BB89EC27E410D9006245F1 /* 5. 最长回文子串.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "5. 最长回文子串.c"; sourceTree = "<group>"; };
+		14BB89F027E438FA006245F1 /* 72. 编辑距离.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "72. 编辑距离.cpp"; sourceTree = "<group>"; };
+		14BB89F527E57051006245F1 /* 64. 最小路径和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "64. 最小路径和.c"; sourceTree = "<group>"; };
+		14BB89F727E574D6006245F1 /* 300. 最长递增子序列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "300. 最长递增子序列.c"; sourceTree = "<group>"; };
+		14BB89FB27E58139006245F1 /* bytedance-004. 机器人跳跃问题.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-004. 机器人跳跃问题.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +87,16 @@
 				1407C72827DA1CB50026B88A /* 16test.cpp */,
 			);
 			name = 3.10;
+			sourceTree = "<group>";
+		};
+		1411B69127E6B76200DA0DBF /* 3.20 */ = {
+			isa = PBXGroup;
+			children = (
+				1411B69227E6B78100DA0DBF /* 88. 合并两个有序数组.c */,
+				1411B69427E6BB5000DA0DBF /* 31. 下一个排列.c */,
+				1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */,
+			);
+			path = 3.20;
 			sourceTree = "<group>";
 		};
 		1441700127E00693003A5A2E /* 3.15 */ = {
@@ -120,6 +142,10 @@
 				1448749427DEC31400AE9974 /* 3.14 */,
 				1441700127E00693003A5A2E /* 3.15 */,
 				1441700827E1660F003A5A2E /* 3.16 */,
+				14BB89E227E2B5E3006245F1 /* 3.17 */,
+				14BB89E927E4051F006245F1 /* 3.18 */,
+				14BB89F427E56FE9006245F1 /* 3.19 */,
+				1411B69127E6B76200DA0DBF /* 3.20 */,
 				1464A3FD27D6D06500BFE294 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -182,6 +208,36 @@
 			path = 3.13;
 			sourceTree = "<group>";
 		};
+		14BB89E227E2B5E3006245F1 /* 3.17 */ = {
+			isa = PBXGroup;
+			children = (
+				14BB89E327E2B5FF006245F1 /* 94. 二叉树的中序遍历.c */,
+				14BB89E527E2BA67006245F1 /* 102. 二叉树的层序遍历.c */,
+				14BB89E727E2BEC3006245F1 /* 394. 字符串解码.c */,
+			);
+			path = 3.17;
+			sourceTree = "<group>";
+		};
+		14BB89E927E4051F006245F1 /* 3.18 */ = {
+			isa = PBXGroup;
+			children = (
+				14BB89EA27E4052F006245F1 /* 415. 字符串相加.c */,
+				14BB89EC27E410D9006245F1 /* 5. 最长回文子串.c */,
+				14BB89F027E438FA006245F1 /* 72. 编辑距离.cpp */,
+			);
+			path = 3.18;
+			sourceTree = "<group>";
+		};
+		14BB89F427E56FE9006245F1 /* 3.19 */ = {
+			isa = PBXGroup;
+			children = (
+				14BB89F527E57051006245F1 /* 64. 最小路径和.c */,
+				14BB89F727E574D6006245F1 /* 300. 最长递增子序列.c */,
+				14BB89FB27E58139006245F1 /* bytedance-004. 机器人跳跃问题.c */,
+			);
+			path = 3.19;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -239,7 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1441701027E17F0A003A5A2E /* bytedance-010. 数组组成最大数ACM.cpp in Sources */,
+				1411B69727E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14BB89E127E1F2E1006245F1 /* test1.c in Sources */ = {isa = PBXBuildFile; fileRef = 14BB89E027E1F2D7006245F1 /* test1.c */; };
+		14BB89F327E4AAC5006245F1 /* test2.c in Sources */ = {isa = PBXBuildFile; fileRef = 14BB89F227E4A939006245F1 /* test2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +36,7 @@
 		149E269527B355C900DE1D67 /* 队列学习.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "队列学习.c"; sourceTree = "<group>"; };
 		14B140F027CD1A83002BFBCA /* 95. 不同的二叉搜索树 II.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "95. 不同的二叉搜索树 II.c"; sourceTree = "<group>"; };
 		14BB89E027E1F2D7006245F1 /* test1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test1.c; sourceTree = "<group>"; };
+		14BB89F227E4A939006245F1 /* test2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test2.c; sourceTree = "<group>"; };
 		14D1F67227BB26C50076B659 /* 34. 在排序数组中查找元素的第一个和最后一个位置.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "34. 在排序数组中查找元素的第一个和最后一个位置.c"; sourceTree = "<group>"; };
 		14D1F68327BC7B4B0076B659 /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
 		14D1F6B927BFDA180076B659 /* 27. 移除元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "27. 移除元素.c"; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 			children = (
 				1407C72627D9C6BB0026B88A /* TestRand.m */,
 				14BB89E027E1F2D7006245F1 /* test1.c */,
+				14BB89F227E4A939006245F1 /* test2.c */,
 				1448749D27DF69FA00AE9974 /* testColor.cpp */,
 				145B345E27B1448300C1F9C3 /* 20. 有效的括号.c */,
 				145B346827B2137F00C1F9C3 /* 682. 棒球比赛.c */,
@@ -141,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14BB89E127E1F2E1006245F1 /* test1.c in Sources */,
+				14BB89F327E4AAC5006245F1 /* test2.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
