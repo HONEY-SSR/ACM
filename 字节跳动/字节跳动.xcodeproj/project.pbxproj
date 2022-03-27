@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1411B69727E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c in Sources */ = {isa = PBXBuildFile; fileRef = 1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */; };
+		1477D50127EFEE0D00435473 /* bytedance-002. 发下午茶.c in Sources */ = {isa = PBXBuildFile; fileRef = 1477D4FF27EFEAF400435473 /* bytedance-002. 发下午茶.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,16 @@
 		1411B69227E6B78100DA0DBF /* 88. 合并两个有序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "88. 合并两个有序数组.c"; sourceTree = "<group>"; };
 		1411B69427E6BB5000DA0DBF /* 31. 下一个排列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "31. 下一个排列.c"; sourceTree = "<group>"; };
 		1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "4. 寻找两个正序数组的中位数.c"; sourceTree = "<group>"; };
+		141FEF4727E8041C00437299 /* 121. 买卖股票的最佳时机.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "121. 买卖股票的最佳时机.c"; sourceTree = "<group>"; };
+		141FEF4927E806BA00437299 /* 56. 合并区间.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "56. 合并区间.cpp"; sourceTree = "<group>"; };
+		141FEF4B27E80AA600437299 /* 135. 分发糖果.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "135. 分发糖果.c"; sourceTree = "<group>"; };
+		141FEF5227E946A000437299 /* 232. 用栈实现队列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "232. 用栈实现队列.c"; sourceTree = "<group>"; };
+		141FEF5627E94BFE00437299 /* 22.括号生成.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22.括号生成.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		141FEF5727E94EF300437299 /* 128. 最长连续序列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "128. 最长连续序列.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		141FEF6927EA954B00437299 /* bytedance-007. 化学公式解析.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-007. 化学公式解析.c"; sourceTree = "<group>"; };
+		141FEF6B27EA97C600437299 /* 129. 求根节点到叶节点数字之和.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "129. 求根节点到叶节点数字之和.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		141FEF6C27EAC68900437299 /* 239. 滑动窗口最大值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "239. 滑动窗口最大值.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		141FEF6D27EB0D1600437299 /* bytedance-007. 化学公式解析.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-007. 化学公式解析.cpp"; sourceTree = "<group>"; };
 		1441700227E006BA003A5A2E /* 20. 有效的括号.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "20. 有效的括号.c"; sourceTree = "<group>"; };
 		1441700427E00C76003A5A2E /* 200. 岛屿数量.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "200. 岛屿数量.c"; sourceTree = "<group>"; };
 		1441700627E013E3003A5A2E /* 76. 最小覆盖子串.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "76. 最小覆盖子串.c"; sourceTree = "<group>"; };
@@ -53,6 +63,18 @@
 		146805B727DC2F9000D1B046 /* 7. 整数反转.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "7. 整数反转.c"; sourceTree = "<group>"; };
 		146805B927DC336500D1B046 /* 215. 数组中的第K个最大元素.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "215. 数组中的第K个最大元素.c"; sourceTree = "<group>"; };
 		146805BB27DC382900D1B046 /* 23. 合并K个升序链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "23. 合并K个升序链表.c"; sourceTree = "<group>"; };
+		1477D48027EC339A00435473 /* 141. 环形链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "141. 环形链表.c"; sourceTree = "<group>"; };
+		1477D48227EC358C00435473 /* 236. 二叉树的最近公共祖先.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "236. 二叉树的最近公共祖先.c"; sourceTree = "<group>"; };
+		1477D48427EC36CB00435473 /* 92. 反转链表 II.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "92. 反转链表 II.c"; sourceTree = "<group>"; };
+		1477D4B527ED7E5400435473 /* 322. 零钱兑换.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "322. 零钱兑换.c"; sourceTree = "<group>"; };
+		1477D4B727ED80D500435473 /* 198. 打家劫舍.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "198. 打家劫舍.c"; sourceTree = "<group>"; };
+		1477D4B927EDD68D00435473 /* bytedance-003. 古生物血缘远近判定.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-003. 古生物血缘远近判定.cpp"; sourceTree = "<group>"; };
+		1477D4C227EE2A9100435473 /* 160. 相交链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "160. 相交链表.c"; sourceTree = "<group>"; };
+		1477D4C427EE2E9400435473 /* 143. 重排链表.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "143. 重排链表.c"; sourceTree = "<group>"; };
+		1477D4C627EE301D00435473 /* 142. 环形链表 II.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "142. 环形链表 II.c"; sourceTree = "<group>"; };
+		1477D4FB27EFE5DC00435473 /* 704. 二分查找.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "704. 二分查找.c"; sourceTree = "<group>"; };
+		1477D4FD27EFE76E00435473 /* 43. 字符串相乘.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "43. 字符串相乘.c"; sourceTree = "<group>"; };
+		1477D4FF27EFEAF400435473 /* bytedance-002. 发下午茶.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-002. 发下午茶.c"; sourceTree = "<group>"; };
 		14B877BC27DD78730075CA17 /* 33. 搜索旋转排序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "33. 搜索旋转排序数组.c"; sourceTree = "<group>"; };
 		14B877BE27DD7B2B0075CA17 /* 54. 螺旋矩阵.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "54. 螺旋矩阵.c"; sourceTree = "<group>"; };
 		14B877C027DD903A0075CA17 /* bytedance-006. 夏季特惠.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-006. 夏季特惠.cpp"; sourceTree = "<group>"; };
@@ -97,6 +119,37 @@
 				1411B69627E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c */,
 			);
 			path = 3.20;
+			sourceTree = "<group>";
+		};
+		141FEF4627E803D200437299 /* 3.21 */ = {
+			isa = PBXGroup;
+			children = (
+				141FEF4727E8041C00437299 /* 121. 买卖股票的最佳时机.c */,
+				141FEF4927E806BA00437299 /* 56. 合并区间.cpp */,
+				141FEF4B27E80AA600437299 /* 135. 分发糖果.c */,
+			);
+			path = 3.21;
+			sourceTree = "<group>";
+		};
+		141FEF5127E9467900437299 /* 3.22 */ = {
+			isa = PBXGroup;
+			children = (
+				141FEF5227E946A000437299 /* 232. 用栈实现队列.c */,
+				141FEF5627E94BFE00437299 /* 22.括号生成.playground */,
+				141FEF5727E94EF300437299 /* 128. 最长连续序列.playground */,
+			);
+			path = 3.22;
+			sourceTree = "<group>";
+		};
+		141FEF6827EA949000437299 /* 3.23 */ = {
+			isa = PBXGroup;
+			children = (
+				141FEF6927EA954B00437299 /* bytedance-007. 化学公式解析.c */,
+				141FEF6D27EB0D1600437299 /* bytedance-007. 化学公式解析.cpp */,
+				141FEF6B27EA97C600437299 /* 129. 求根节点到叶节点数字之和.playground */,
+				141FEF6C27EAC68900437299 /* 239. 滑动窗口最大值.playground */,
+			);
+			path = 3.23;
 			sourceTree = "<group>";
 		};
 		1441700127E00693003A5A2E /* 3.15 */ = {
@@ -146,6 +199,13 @@
 				14BB89E927E4051F006245F1 /* 3.18 */,
 				14BB89F427E56FE9006245F1 /* 3.19 */,
 				1411B69127E6B76200DA0DBF /* 3.20 */,
+				141FEF4627E803D200437299 /* 3.21 */,
+				141FEF5127E9467900437299 /* 3.22 */,
+				141FEF6827EA949000437299 /* 3.23 */,
+				1477D47F27EC337E00435473 /* 3.24 */,
+				1477D4B427ED7E1900435473 /* 3.25 */,
+				1477D4C127EE2A5900435473 /* 3.26 */,
+				1477D4FA27EFE5B000435473 /* 3.27 */,
 				1464A3FD27D6D06500BFE294 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -196,6 +256,46 @@
 				146805BB27DC382900D1B046 /* 23. 合并K个升序链表.c */,
 			);
 			path = 3.12;
+			sourceTree = "<group>";
+		};
+		1477D47F27EC337E00435473 /* 3.24 */ = {
+			isa = PBXGroup;
+			children = (
+				1477D48027EC339A00435473 /* 141. 环形链表.c */,
+				1477D48227EC358C00435473 /* 236. 二叉树的最近公共祖先.c */,
+				1477D48427EC36CB00435473 /* 92. 反转链表 II.c */,
+			);
+			path = 3.24;
+			sourceTree = "<group>";
+		};
+		1477D4B427ED7E1900435473 /* 3.25 */ = {
+			isa = PBXGroup;
+			children = (
+				1477D4B527ED7E5400435473 /* 322. 零钱兑换.c */,
+				1477D4B727ED80D500435473 /* 198. 打家劫舍.c */,
+				1477D4B927EDD68D00435473 /* bytedance-003. 古生物血缘远近判定.cpp */,
+			);
+			path = 3.25;
+			sourceTree = "<group>";
+		};
+		1477D4C127EE2A5900435473 /* 3.26 */ = {
+			isa = PBXGroup;
+			children = (
+				1477D4C227EE2A9100435473 /* 160. 相交链表.c */,
+				1477D4C427EE2E9400435473 /* 143. 重排链表.c */,
+				1477D4C627EE301D00435473 /* 142. 环形链表 II.c */,
+			);
+			path = 3.26;
+			sourceTree = "<group>";
+		};
+		1477D4FA27EFE5B000435473 /* 3.27 */ = {
+			isa = PBXGroup;
+			children = (
+				1477D4FB27EFE5DC00435473 /* 704. 二分查找.c */,
+				1477D4FD27EFE76E00435473 /* 43. 字符串相乘.c */,
+				1477D4FF27EFEAF400435473 /* bytedance-002. 发下午茶.c */,
+			);
+			path = 3.27;
 			sourceTree = "<group>";
 		};
 		14B877BB27DD782B0075CA17 /* 3.13 */ = {
@@ -269,6 +369,7 @@
 				TargetAttributes = {
 					1464A3FB27D6D06500BFE294 = {
 						CreatedOnToolsVersion = 13.2.1;
+						LastSwiftMigration = 1320;
 					};
 				};
 			};
@@ -295,7 +396,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1411B69727E6BD2000DA0DBF /* 4. 寻找两个正序数组的中位数.c in Sources */,
+				1477D50127EFEE0D00435473 /* bytedance-002. 发下午茶.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,22 +517,37 @@
 		1464A40427D6D06500BFE294 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 727CVV9PLJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
 		1464A40527D6D06500BFE294 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 727CVV9PLJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
