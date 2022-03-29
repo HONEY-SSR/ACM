@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		14FB8D1827F21BF3004A11C3 /* 2. 两数相加.c in Sources */ = {isa = PBXBuildFile; fileRef = 14FB8D1727F21BF3004A11C3 /* 2. 两数相加.c */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		1464A3FA27D6D06500BFE294 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -73,9 +77,6 @@
 		1477D4FF27EFEAF400435473 /* bytedance-002. 发下午茶.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-002. 发下午茶.c"; sourceTree = "<group>"; };
 		14921BCC27F1849900839B1F /* 69. x 的平方根.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "69. x 的平方根.c"; sourceTree = "<group>"; };
 		14921BCE27F185D100839B1F /* 912. 排序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "912. 排序数组.c"; sourceTree = "<group>"; };
-		14921BD027F1BA3700839B1F /* 887. 鸡蛋掉落.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "887. 鸡蛋掉落.c"; sourceTree = "<group>"; };
-		14921BD227F1BC1D00839B1F /* 887. 鸡蛋掉落.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = "887. 鸡蛋掉落.c"; path = "3.28/887. 鸡蛋掉落.c"; sourceTree = "<group>"; };
-		14921BD327F1BC1D00839B1F /* 887. 鸡蛋掉落.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = "887. 鸡蛋掉落.c"; path = "3.28/887. 鸡蛋掉落.c"; sourceTree = "<group>"; };
 		14B877BC27DD78730075CA17 /* 33. 搜索旋转排序数组.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "33. 搜索旋转排序数组.c"; sourceTree = "<group>"; };
 		14B877BE27DD7B2B0075CA17 /* 54. 螺旋矩阵.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "54. 螺旋矩阵.c"; sourceTree = "<group>"; };
 		14B877C027DD903A0075CA17 /* bytedance-006. 夏季特惠.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bytedance-006. 夏季特惠.cpp"; sourceTree = "<group>"; };
@@ -88,6 +89,10 @@
 		14BB89F527E57051006245F1 /* 64. 最小路径和.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "64. 最小路径和.c"; sourceTree = "<group>"; };
 		14BB89F727E574D6006245F1 /* 300. 最长递增子序列.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "300. 最长递增子序列.c"; sourceTree = "<group>"; };
 		14BB89FB27E58139006245F1 /* bytedance-004. 机器人跳跃问题.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "bytedance-004. 机器人跳跃问题.c"; sourceTree = "<group>"; };
+		14FB8D1227F216D6004A11C3 /* 887. 鸡蛋掉落.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "887. 鸡蛋掉落.c"; sourceTree = "<group>"; };
+		14FB8D1427F217A4004A11C3 /* 151. 颠倒字符串中的单词.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "151. 颠倒字符串中的单词.c"; sourceTree = "<group>"; };
+		14FB8D1627F218E1004A11C3 /* 46. 全排列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. 全排列.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		14FB8D1727F21BF3004A11C3 /* 2. 两数相加.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "2. 两数相加.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,8 +192,6 @@
 		1464A3F327D6D06500BFE294 = {
 			isa = PBXGroup;
 			children = (
-				14921BD227F1BC1D00839B1F /* 887. 鸡蛋掉落.c */,
-				14921BD327F1BC1D00839B1F /* 887. 鸡蛋掉落.c */,
 				1464A3FE27D6D06500BFE294 /* 3.8 */,
 				1464A48827D84E2600BFE294 /* 3.9 */,
 				1407C71B27D991EE0026B88A /* 3.10 */,
@@ -210,6 +213,7 @@
 				1477D4C127EE2A5900435473 /* 3.26 */,
 				1477D4FA27EFE5B000435473 /* 3.27 */,
 				14921BCB27F1847800839B1F /* 3.28 */,
+				14FB8D1327F216DC004A11C3 /* 3.29 */,
 				1464A3FD27D6D06500BFE294 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -307,7 +311,7 @@
 			children = (
 				14921BCC27F1849900839B1F /* 69. x 的平方根.c */,
 				14921BCE27F185D100839B1F /* 912. 排序数组.c */,
-				14921BD027F1BA3700839B1F /* 887. 鸡蛋掉落.c */,
+				14FB8D1227F216D6004A11C3 /* 887. 鸡蛋掉落.c */,
 			);
 			path = 3.28;
 			sourceTree = "<group>";
@@ -350,6 +354,16 @@
 				14BB89FB27E58139006245F1 /* bytedance-004. 机器人跳跃问题.c */,
 			);
 			path = 3.19;
+			sourceTree = "<group>";
+		};
+		14FB8D1327F216DC004A11C3 /* 3.29 */ = {
+			isa = PBXGroup;
+			children = (
+				14FB8D1427F217A4004A11C3 /* 151. 颠倒字符串中的单词.c */,
+				14FB8D1627F218E1004A11C3 /* 46. 全排列.playground */,
+				14FB8D1727F21BF3004A11C3 /* 2. 两数相加.c */,
+			);
+			name = 3.29;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -410,6 +424,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14FB8D1827F21BF3004A11C3 /* 2. 两数相加.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
